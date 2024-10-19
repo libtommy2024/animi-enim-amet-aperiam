@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/animi-enim-amet-aperiam",
-  "version": "7.10.163",
+  "version": "7.11.163",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -799,5 +799,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/animi-enim-amet-aperiam/issues"
   },
-  "packageManager": "yarn@4.5.0"
+  "packageManager": "yarn@4.5.1"
 }
